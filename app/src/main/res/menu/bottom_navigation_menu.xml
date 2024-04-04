@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_item_1"
+        android:title="Home"
+        android:icon="@drawable/hoomee"/>
+    <item
+        android:id="@+id/nav_item_01"
+        android:title="Favourites"
+        android:icon="@drawable/heart_unliked"/>
+    <item
+        android:id="@+id/nav_item_2"
+        android:title="History"
+        android:icon="@drawable/historyyy"/>
+
+    <item
+        android:id="@+id/nav_item_02"
+        android:title="Chat"
+        android:icon="@drawable/comment"/>
+
+    <item
+        android:id="@+id/nav_item_3"
+        android:title="Profile"
+        android:icon="@drawable/userrr"/>
+
+</menu>
